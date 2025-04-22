@@ -166,5 +166,5 @@ print(respuesta.status_code)
 ---
 ## Cursos gratis en youtube sobre python.
 https://www.youtube.com/watch?v=swdcD6OPMlk ( 9 horas)
-```bash
+
 https://www.youtube.com/watch?v=chPhlsHoEPo (3 horas) 
