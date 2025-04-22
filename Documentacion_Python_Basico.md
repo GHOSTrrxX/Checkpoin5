@@ -155,16 +155,6 @@ import requests
 respuesta = requests.get("https://api.github.com")
 print(respuesta.status_code)
 ```
-
----
-
-## Recomendaciones de herramientas para documentación
-
-- **Visual Studio Code** (con extensiones Markdown Preview)
-- **Typora** (editor visual de Markdown)
-- **Docusaurus** o **MkDocs** (para documentación en sitios web)
-- **GitHub** (ideal para publicar y versionar tu documentación)
-
 ---
 
 ## Recursos adicionales
