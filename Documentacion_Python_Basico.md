@@ -173,6 +173,3 @@ print(respuesta.status_code)
 - [Tutorial interactivo de Python](https://www.learnpython.org/)
 - [Cheat Sheet de Markdown](https://www.markdownguide.org/cheat-sheet/)
 
----
-
-> Documentación creada por el equipo de desarrollo para apoyar a los nuevos programadores en su camino de aprendizaje. ¡Bienvenidos al equipo!
