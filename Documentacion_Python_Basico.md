@@ -1,6 +1,6 @@
 # Documentación Básica de Python para Principiantes
 
-> Esta documentación está diseñada para quienes están comenzando en el mundo del desarrollo con Python. Se encuentra en formato **Markdown**, un lenguaje ligero de marcado ideal para la creación de documentación técnica. Puedes visualizar este documento en plataformas como GitHub, Visual Studio Code o cualquier editor Markdown.
+> Esta documentación está hecha para quienes están comenzando en el desarrollo con Python. esta en formato **Markdown**, un lenguaje ligero de marcado ideal para la creación de documentación técnica, Puedes visualizar este documento en plataformas como GitHub, Visual Studio Code.
 
 ---
 
