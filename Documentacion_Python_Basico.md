@@ -163,3 +163,7 @@ print(respuesta.status_code)
 - [Tutorial interactivo de Python](https://www.learnpython.org/)
 - [Cheat Sheet de Markdown](https://www.markdownguide.org/cheat-sheet/)
 
+---
+## Cursos gratis en youtube sobre python.
+https://www.youtube.com/watch?v=swdcD6OPMlk ( 9 horas)
+https://www.youtube.com/watch?v=chPhlsHoEPo (3 horas) 
