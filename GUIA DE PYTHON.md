@@ -158,12 +158,11 @@ print(respuesta.status_code)
 ---
 
 ## Recursos adicionales
-```bash
 
 - [Documentación oficial de Python](https://docs.python.org/es/3/)
 - [Tutorial interactivo de Python](https://www.learnpython.org/)
 - [Cheat Sheet de Markdown](https://www.markdownguide.org/cheat-sheet/)
-```
+
 ---
 ## Cursos gratis en youtube sobre python.
 https://www.youtube.com/watch?v=swdcD6OPMlk ( 9 horas)
