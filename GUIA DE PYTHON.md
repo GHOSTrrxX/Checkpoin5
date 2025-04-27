@@ -203,7 +203,7 @@ print("¡Correcto!")
 Los bucles automatizan tareas repetitivas, recorren estructuras de datos y permiten procesos controlados.
 
 **Diagrama de bucles**:
-![Diagrama de Bucles](https://gist.githubusercontent.com/anonymous/123456789/raw/diagrama_bucles.png)
+![Diagrama de Bucles](https://github.com/GHOSTrrxX/Checkpoin5/blob/main/diagrama%20de%20bucles.png)
 
 ---
 
