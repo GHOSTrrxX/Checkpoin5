@@ -373,53 +373,7 @@ finally:
     # Código que se ejecuta siempre
 ```
 
-### Ejemplo 1: División por cero
-```python
-try-----
-
-System: You are Grok 3 built by xAI.
-
-System: It appears the previous response was cut off. I’ll provide a complete and corrected version of the Markdown document, ensuring it meets your requirement of at least 600 lines, and I’ll wrap it in an artifact as a `.md` file for you to download. The document will retain all the improvements from the previous version, including extensive sections, examples, and image references, while ensuring the content is complete and polished.
-
-### Instructions for Downloading:
-1. **Copy the Content**: Copy the entire content within the `<xaiArtifact>` tag below.
-2. **Create a File**: Open a text editor (e.g., Notepad, Visual Studio Code, or any other).
-3. **Paste the Content**: Paste the copied content into the editor.
-4. **Save as .md**: Save the file with a `.md` extension, e.g., `python_para_principiantes.md`.
-5. **View or Use**: Open the file in a Markdown viewer like GitHub, VS Code, or a browser with a Markdown extension.
-
-Below is the complete Markdown document:
-
-<xaiArtifact artifact_id="a90df613-0098-4037-9324-335cc028ee13" artifact_version_id="b08b7c67-e249-497d-abc7-1388d7fadfb6" title="python_para_principiantes.md" contentType="text/markdown">
-# Documentación Extendida de Python para Principiantes
-
-> Esta guía está diseñada para principiantes que desean dominar los fundamentos de **Python**. Escrita en **Markdown**, un lenguaje ligero ideal para documentación técnica, puedes visualizar este documento en plataformas como GitHub, Visual Studio Code, o cualquier editor compatible con Markdown.
-
----
-
-## Introducción
-
-Python es un lenguaje de programación versátil, fácil de aprender y ampliamente utilizado en desarrollo web, ciencia de datos, automatización, inteligencia artificial y más. Esta documentación cubre conceptos fundamentales como tipos de datos, condicionales, bucles, funciones, y temas más avanzados como programación orientada a objetos y manejo de excepciones. Incluye ejemplos prácticos, diagramas explicativos y recursos para apoyar tu aprendizaje.
-
----
-
-## 1. Tipos de Datos en Python
-
-Python es un lenguaje dinámicamente tipado, lo que significa que no necesitas declarar el tipo de una variable. A continuación, se presentan los tipos de datos más comunes.
-
-### 1.1. Números
-- **Enteros (`int`)**: Números sin decimales.
-- **Flotantes (`float`)**: Números con decimales.
-- **Complejos (`complex`)**: Números con parte real e imaginaria.
-
-```python
-entero = 42
-flotante = 3.14
-complejo = 3 + 4j
-print(entero, flotante, complejo)  # Salida: 42 3.14 (3+4j)
-```
-
-### 1.2. Cadenas (`str`)
+### 1.1. Cadenas (`str`)
 Las cadenas son secuencias de caracteres, definidas con comillas simples (`'`) o dobles (`"`).
 
 ```python
@@ -428,7 +382,7 @@ mensaje = '¡Hola, mundo!'
 print(nombre, mensaje)  # Salida: Python ¡Hola, mundo!
 ```
 
-### 1.3. Listas (`list`)
+### 1.2. Listas (`list`)
 Colecciones ordenadas y mutables de elementos.
 
 ```python
@@ -437,7 +391,7 @@ frutas.append("mango")
 print(frutas)  # Salida: ['manzana', 'banana', 'naranja', 'mango']
 ```
 
-### 1.4. Tuplas (`tuple`)
+### 1.3. Tuplas (`tuple`)
 Colecciones ordenadas e inmutables.
 
 ```python
@@ -445,7 +399,7 @@ coordenadas = (10, 20)
 print(coordenadas[0])  # Salida: 10
 ```
 
-### 1.5. Diccionarios (`dict`)
+### 1.4. Diccionarios (`dict`)
 Colecciones de pares clave-valor.
 
 ```python
@@ -453,7 +407,7 @@ persona = {"nombre": "Ana", "edad": 25}
 print(persona["nombre"])  # Salida: Ana
 ```
 
-### 1.6. Conjuntos (`set`)
+### 1.5. Conjuntos (`set`)
 Colecciones no ordenadas de elementos únicos.
 
 ```python
@@ -461,7 +415,7 @@ numeros = {1, 2, 3, 3}
 print(numeros)  # Salida: {1, 2, 3}
 ```
 
-### 1.7. Booleanos (`bool`)
+### 1.6. Booleanos (`bool`)
 Valores `True` o `False`.
 
 ```python
