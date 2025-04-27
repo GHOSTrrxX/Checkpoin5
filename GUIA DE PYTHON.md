@@ -70,7 +70,7 @@ print(numeros)  # Salida: {1, 2, 3}
 ```
 
 **Diagrama de tipos de datos**:
-![Diagrama de Tipos de Datos](https://gist.githubusercontent.com/anonymous/123456789/raw/tipos_datos_python.png)
+![Diagrama de Tipos de Datos](https://github.com/GHOSTrrxX/Checkpoin5/blob/main/tipos%20de%20datos.png)
 
 ---
 
