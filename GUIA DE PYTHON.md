@@ -423,12 +423,6 @@ es_mayor = True
 es_menor = False
 print(es_mayor, es_menor)  # Salida: True False
 ```
-
-**Diagrama de tipos de datos**:
-![Diagrama de Tipos de Datos](https://gist.githubusercontent.com/anonymous/123456789/raw/tipos_datos_python.png)
-
----
-
 ## 2. Condicionales
 
 Los **condicionales** permiten ejecutar diferentes bloques de código según si una condición es verdadera o falsa. Python usa `if`, `elif` y `else`.
@@ -490,11 +484,6 @@ else:
     print("El número es impar")
 # Salida: El número es par
 ```
-
-**Diagrama de flujo condicional**:
-![Diagrama de Flujo Condicional](https://gist.githubusercontent.com/anonymous/123456789/raw/flujo_condicional.png)
-
----
 
 ## 3. Bucles
 
@@ -583,11 +572,6 @@ print(f"Respuesta: {respuesta}")
 
 ### ¿Por qué son útiles?
 Los bucles automatizan tareas repetitivas, recorren estructuras de datos y permiten procesos controlados.
-
-**Diagrama de bucles**:
-![Diagrama de Bucles](https://gist.githubusercontent.com/anonymous/123456789/raw/diagrama_bucles.png)
-
----
 
 ## 4. Listas por Comprensión
 
@@ -814,7 +798,7 @@ except IndexError:
 ```
 
 **Diagrama de manejo de excepciones**:
-![Diagrama de Excepciones](https://gist.githubusercontent.com/anonymous/123456789/raw/manejo_excepciones.png)
+![Diagrama de Excepciones](https://github.com/GHOSTrrxX/Checkpoin5/blob/main/excepciones.jpg)
 
 ---
 
@@ -949,7 +933,7 @@ print(circulo.area())  # Salida: 78.53975
 ```
 
 **Diagrama de POO**:
-![Diagrama de POO](https://gist.githubusercontent.com/anonymous/123456789/raw/diagrama_poo.png)
+![Diagrama de POO](https://github.com/GHOSTrrxX/Checkpoin5/blob/main/P00.png)
 
 ---
 
