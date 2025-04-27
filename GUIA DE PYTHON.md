@@ -127,7 +127,7 @@ else:
 ```
 
 **Diagrama de flujo condicional**:
-![Diagrama de Flujo Condicional](https://gist.githubusercontent.com/anonymous/123456789/raw/flujo_condicional.png)
+![Diagrama de Flujo Condicional](https://github.com/GHOSTrrxX/Checkpoin5/blob/main/flujo%20condicional.jpg)
 
 ---
 
